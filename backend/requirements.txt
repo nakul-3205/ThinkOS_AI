@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pydantic
+cryptography
+python-dotenv
+redis
+rq
+openai
