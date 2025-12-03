@@ -6,3 +6,10 @@ python-dotenv
 redis
 rq
 openai
+tavily-python
+upstash-redis
+loguru
+inngest
+qdrant_client
+wikipedia-api
+mem0ai
